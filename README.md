@@ -21,6 +21,10 @@ npm run start:dev
 <strong>Go to "http://localhost:8080/views/users" to see your users data from MongoDB</strong>
 example of aplication running:
 
-![crud-node-example](https://github.com/YanLB5/Crud-Node.js-with-MongoDB/assets/129100238/830d7d09-84a5-4d74-870f-d0369de2fd66)
+![crud-node-example](https://github.com/YanLB5/Crud-Node.js-with-MongoDB/assets/129100238/7130d6e3-e4fc-4c3d-b446-1a7107748d29)
+
+<h2>Crud Operations Examples on Postman:</h2>
+
+![crud-on-postman](https://github.com/YanLB5/Crud-Node.js-with-MongoDB/assets/129100238/0883b533-11a9-45f4-ac2c-bd757dbc4361)
 
 
