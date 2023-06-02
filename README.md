@@ -16,7 +16,6 @@ A user data records system using MongoDB, Express.js, and Node.js with real-time
 <h2>How to run the application:</h2>
 npm run start:dev
 <br>
-<br>
 <h2>How to see users data from MongoDB?</h2>
 
 <strong>Go to "http://localhost:8080/views/users" to see your users data from MongoDB</strong>
