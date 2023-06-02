@@ -8,9 +8,8 @@ A user data records system using MongoDB, Express.js, and Node.js with real-time
   <li>Node</li>
   <li>Express</li>
   <li>MongoDB</li>
-  <li>Ejs</li>
-  <li>Express</li>
   <li>Mongoose</li>
+  <li>Ejs</li>
 </ul>
 
 <h2>How to run the application:</h2>
